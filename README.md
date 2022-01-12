@@ -30,7 +30,7 @@ N =2 , K =4
 
 n       k
 
-        1   2   3   4
+/       1   2   3   4
         
 0       1   1   1   1 
 
@@ -38,12 +38,13 @@ n       k
 
 2       1
 
+
 In here makeing 0 with K number is always 1 (1 = 0 , 2 = 0 + 0 , 3 = 0 + 0 + 0...)
 Making N with 1 number is always 1 ( 1= 1 , 2 = 2 ...)
 
 n       k
 
-        1   2   3   4
+/       1   2   3   4
         
 0       1   1   1   1 
 
